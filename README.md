@@ -30,3 +30,13 @@ samples, guidance on mobile development, and a full API reference.
 ## Tampilan Halaman jika di on Tap
 ![plot](./image/2.png)
 <br>
+
+# Hasil Dari Tugas Praktikum
+
+## Tampilan Halaman Utama
+![plot](./image/3.png)
+<br>
+
+## Tampilan Halaman jika di on Tap
+![plot](./image/4.png)
+<br>
