@@ -36,7 +36,7 @@ class ItemPage extends StatelessWidget {
                       Container(
                         margin: EdgeInsets.only(bottom: 10),
                         child: Text(
-                          "Nama : " + tempItem.judul,
+                          "Judul Buku : " + tempItem.judul,
                           style: TextStyle(
                             fontSize: 15,
                             fontFamily: 'Candara',

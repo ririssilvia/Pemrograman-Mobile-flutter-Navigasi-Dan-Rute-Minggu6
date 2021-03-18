@@ -31,7 +31,7 @@ class HomePage extends StatelessWidget {
         ),
       body: Container(
           color: Colors.blueGrey[900],
-          margin: EdgeInsets.all(8),
+          margin: EdgeInsets.all(5),
           child: ListView.builder(
             padding: EdgeInsets.all(8),
             itemCount: items.length,
