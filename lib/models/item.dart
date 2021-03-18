@@ -2,9 +2,11 @@
 //pojo
 //POCO
 class Item{
-  String name;
-  int price;
+  String judul;
+  String namapengarang;
+  int jumlah;
+  int harga;
 
 //parameter yang bernama
-  Item({this.name,this.price});
+  Item({this.judul,this.namapengarang,this.jumlah,this.harga});
 }
